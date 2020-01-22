@@ -68,8 +68,8 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="App\App.css" />
-    <Content Include="App\App.js" />
+    <Content Include="App.css" />
+    <Content Include="App.js" />
     <Content Include="Content\Button.css" />
     <Content Include="Content\fabric-9.6.0.scoped.css" />
     <Content Include="Content\fabric-9.6.0.scoped.min.css" />
@@ -111,9 +111,9 @@
     <None Include="Scripts\jquery-1.9.1.intellisense.js" />
     <Content Include="Functions\FunctionFile.html" />
     <Content Include="Functions\FunctionFile.js" />
-    <Content Include="Home\Home.css" />
-    <Content Include="Home\Home.html" />
-    <Content Include="Home\Home.js" />
+    <Content Include="Home.css" />
+    <Content Include="Home.html" />
+    <Content Include="Home.js" />
     <Content Include="Images\AddinIcon.png" />
     <Content Include="Images\Button16x16.png" />
     <Content Include="Images\Button32x32.png" />

@@ -48,7 +48,7 @@
     <Content Include="OfficeJSTestManifest\OfficeJSTest.xml">
       <OpcRelationship>manifest-oemanifest</OpcRelationship>
     </Content>
-    <None Include="StockConnector.xlsx" />
+    <None Include="Stock data.xlsx" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\OfficeJSTestWeb\OfficeJSTestWeb.csproj">
